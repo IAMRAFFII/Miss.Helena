@@ -22,6 +22,12 @@
     <br> 
 </p>
 
+1 - Turn On Desktop Mode And Fork This Repo
+2 - Then Copy You Git Url And Take Readme.md
+3 - Go To ww Line And You Can See This Repo Url In Last
+4 - Remove That Orginal Link And Paste Your Git Url (Do not remove anything other than the URL)
+5 - Then Click On Commit Changes And Deploy This Bot
+
 ##
   <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
 <p align="center">
