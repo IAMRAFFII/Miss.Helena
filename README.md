@@ -22,6 +22,9 @@
     <br> 
 </p>
 
+<h3 align="center">💖🎗️HOW TO DEPLOY BOT  🎗️💖</h3>
+
+<div align="center">
 ##
   <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
 <p align="center">
